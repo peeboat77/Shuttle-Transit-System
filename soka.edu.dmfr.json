@@ -4,7 +4,7 @@
       "onestop_id": "f-soka~shuttle",
       "spec": "gtfs",
       "urls": {
-        "static_current": ""
+        "static_current": "https://peeboat77.github.io/Shuttle-Transit-System/"
       }
     }
   ]
