@@ -1,0 +1,11 @@
+{
+  "feeds": [
+    {
+      "onestop_id": "f-soka~shuttle",
+      "spec": "gtfs",
+      "urls": {
+        "static_current": ""
+      }
+    }
+  ]
+}
