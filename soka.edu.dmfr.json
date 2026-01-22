@@ -1,11 +1,21 @@
+
 {
-  "feeds": [
-    {
-      "onestop_id": "f-soka~shuttle",
-      "spec": "gtfs",
-      "urls": {
-        "static_current": "https://peeboat77.github.io/Shuttle-Transit-System/"
+    "feeds": [
+      {
+        "onestop_id": "f-soka~shuttle",
+        "spec": "gtfs",
+        "urls": {
+          "static_current": "https://drive.google.com/file/d/1QCt_U7pYWES8T6bYExEhsSGxWubKbLEV/view?usp=sharing"
+        },
+        "operators": [
+          {
+            "onestop_id": "o-soka~shuttle",
+            "name": "Soka University Shuttle",
+            "website": "https://peeboat77.github.io/Shuttle-Transit-System/"
+          }
+        ]
       }
-    }
-  ]
-}
+    ]
+  }
+{
+ 
